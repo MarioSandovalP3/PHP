@@ -3,4 +3,4 @@
 
 Con exif_read_data() se puede leer las cabeceras EXIF que tienden a estar presentes en imágenes JPEG/TIFF generadas por cámaras digitales, en este caso solo se leera las cabeceras a JPEG.
 
-** Requisitos **
+**Requisitos**
