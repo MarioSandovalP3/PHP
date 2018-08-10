@@ -4,3 +4,5 @@
 Con exif_read_data() se puede leer las cabeceras EXIF que tienden a estar presentes en imágenes JPEG/TIFF generadas por cámaras digitales, en este caso solo se leera las cabeceras a JPEG.
 
 **Requisitos**
+  1. Servidor apache con (PHP 4 >= 4.2.0, PHP 5, PHP 7)
+  2. jquery-3.2.1.min.js http://github.com - ¡link automático!
